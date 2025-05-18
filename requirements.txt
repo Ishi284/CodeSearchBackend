@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-jose
+passlib
+python-multipart
+pydantic==1.10.22
+email-validator
+motor
+pymongo
+python-dotenv
+transformers
+torch
+faiss-cpu
+numpy
+tqdm
+bcrypt
+pytz
